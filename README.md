@@ -17,3 +17,9 @@ C# 파일 없음
 ## 4. appsettings.json
 앱 configure하는 데 필요한 json 저장
 ex) Api key
+
+
+## 5. Program.cs
+앱 entry point
+builder.Service를 통해 서비스 생성
+app.() 메서드를 통해 파이프라인 구축
